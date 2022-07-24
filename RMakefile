@@ -1,0 +1,9 @@
+SOURCE += source/*.cpp
+LIBS += -lRSGL
+ARGS += -g
+OUTPUT = LonicJump
+GXX = g++
+
+pash{
+      ./$(OUTPUT)
+}
