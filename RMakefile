@@ -1,5 +1,5 @@
 SOURCE += source/*.cpp
-LIBS += -lRSGL
+LIBS += $(RSGL-static)
 ARGS += -g
 OUTPUT = LonicJump
 GXX = g++
