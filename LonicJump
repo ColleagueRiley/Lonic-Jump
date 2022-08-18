@@ -1,1 +1,1 @@
-/usr/share/LonicJump/LonicJump
+cd /usr/share/LonicJump && ./LonicJump
